@@ -1,6 +1,6 @@
 This folder was last updated as follows:
 
-    export tag=v1.13
+    export tag=v1.14
     cd third_party
     curl -L -O https://github.com/jkuhlmann/cgltf/archive/refs/tags/${tag}.zip
     unzip ${tag}.zip
